@@ -5,15 +5,12 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Wikimedia Foundation Donation Form</title>
+    <title>Wikimedia Foundation Donation Thank You</title>
     <link rel="stylesheet" href="css/style.css" type="text/css">
   </head>
   <body>
     <main role="main">
-      <?php echo buildForm($_POST) ?>
+      <?php echo buildConfirmationMessage() ?>
     </main>
   </body>
 </html>  
-
-
-	
