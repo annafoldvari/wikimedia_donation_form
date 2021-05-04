@@ -4,7 +4,7 @@
 
 To set up the project download the project library.
 
-You should have a web server with php enabled.
+You should have a web server with at least php 7 enabled.
 
 Create a mysql database.
 
